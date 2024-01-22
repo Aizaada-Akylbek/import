@@ -14,6 +14,7 @@ export const studentAge=15
 
 export const redactor='VS Code'
 
+const newTeam='Brigada'
 
 export const getItems =fns.getItems
 export const countItems =fns.countItems
