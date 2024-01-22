@@ -14,8 +14,8 @@ export const studentAge=15
 
 export const redactor='VS Code'
 
-const newTeam='Movie lovers'
-// const newTeam2='Movie lovers'
+const newTeam='Drink lovers'
+// const newTeam2='Drink lovers'
 
 export const getItems =fns.getItems
 export const countItems =fns.countItems
