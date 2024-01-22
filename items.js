@@ -13,6 +13,7 @@ export const studentName='Amina'
 export const studentAge=15
 
 export const redactor='VS Code'
+export const nreInfo='GIT'
 
 
 export const getItems =fns.getItems
